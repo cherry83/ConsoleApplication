@@ -10,6 +10,8 @@ namespace CherryConsoleApplication
     {
         static void Main(string[] args)
         {
+            
+            
         }
     }
 }
