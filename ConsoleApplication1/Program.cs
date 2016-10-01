@@ -10,8 +10,12 @@ namespace CherryConsoleApplication
     {
         static void Main(string[] args)
         {
-            // test
-            
+
+            String Hello = "Hello";
+            String World = "World";
+            Object HelloWorldObject = Hello + " " + World;
+            String HelloWorld = HelloWorldObject.ToString();
+            Console.WriteLine(HelloWorld);
         }
     }
 }
